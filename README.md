@@ -1,2 +1,1 @@
-# SistemasDigitais
-circuitos montados com o Logosim
+circuitos montados com o Logisim
